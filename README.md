@@ -1,8 +1,6 @@
 # BNO-EZ Adapter
 
-Adapterplatine für den **BNO085**, um den Sensor über I²C an ältere Fischertechnik-Control-Systeme anzubinden.
-
-![BNO-EZ Adapter](659108d0-4304-4c07-aacb-3961667a846f.png)
+Adapterplatine für den **BNO085**, um den Sensor über I²C an ältere Fischertechnik-Controllern anzubinden.
 
 ## Funktionen
 
@@ -13,13 +11,13 @@ Adapterplatine für den **BNO085**, um den Sensor über I²C an ältere Fischert
 
 ## Pinbelegung
 
-| Anschluss | Funktion |
-|---|---|
-| I2 / I1 | I²C |
-| +3.3V | Versorgung |
-| SDA | I²C Daten |
-| SCL | I²C Takt |
-| GND | Masse |
+| Anschluss | Funktion   |
+| --------- | ---------- |
+| I2 / I1   | I²C        |
+| +3.3V     | Versorgung |
+| SDA       | I²C Daten  |
+| SCL       | I²C Takt   |
+| GND       | Masse      |
 
 ### I²C-Einstellungen
 
